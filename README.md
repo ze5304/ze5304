@@ -11,8 +11,9 @@
 - 📫 How to reach me "zelekewbelay819@gmail.com"
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/Zele_Be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="40" width="40" /></a>
-<a href="https://tiktok.com/@zelekewcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="40" width="40" /></a>
+<a href="https://t.me/Zele_Be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="50" width="50" /></a>
+<br>
+<a href="https://tiktok.com/@zelekewcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="TikTok" height="50" width="50" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ze5304&show_icons=true&locale=en&layout=compact" alt="ze5304" /></p>
