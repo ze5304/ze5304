@@ -31,3 +31,6 @@
 <a href="https://tiktok.com/@zelekewcoder" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="mailto:zelekewbelay819@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ze5304&show_icons=true&locale=en&layout=compact" alt="ze5304" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ze5304&show_icons=true&locale=en" alt="ze5304" /></p>
