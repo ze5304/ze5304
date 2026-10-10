@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zelekew Belay</h1>
 <h3 align="center">A passionate Frontend Developer from Woldia University in Ethiopia</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ze5304&label=Profile%20views&color=0e75b6&style=flat" alt="ze5304" />
-</p>
+<h1>hi guys Iam software developer</h1>
 
 <h3 align="left">About Me</h3>
 <p align="left">
